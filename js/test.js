@@ -1,11 +1,16 @@
 
 var names=new Array();
 
-names[0]="Jay";
-names[1]="Tim";
-names[2]="jim";
-names[3]="kim";
-names[4]="sim";
+names[0]="Yaakov";
+names[1]="John";
+names[2]="Jen";
+names[3]="Jason";
+names[4]="Paul";
+names[4]="Frank";
+names[4]="Larry";
+names[4]="Paula";
+names[4]="Laura";
+names[4]="jim";
 
 for(var i=0; i<names.length; i++)
 {
